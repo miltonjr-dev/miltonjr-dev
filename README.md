@@ -1,6 +1,6 @@
 # Olá, sou Milton Junior
 
-Desenvolvedor fullstack em formação (ADS no Senac). 15 anos em gestão comercial, agora construindo produto de ponta a ponta.
+Desenvolvedor fullstack em formação (ADS no Senac). 20 anos em gestão comercial, agora construindo de ponta a ponta.
 
 Aberto a estágio e júnior. São Paulo, Brasil.
 
@@ -9,8 +9,10 @@ Aberto a estágio e júnior. São Paulo, Brasil.
 ## Sobre mim
 
 - ADS em andamento — Senac SP
-- Bacharel em Administração e Ciências Contábeis
+- Bacharel em Administração
+- Bacharel em Ciências Contábeis
 - MBA em Liderança e Desenvolvimento de Pessoas
+- Pós graduação em Gestão de equipes de alta performance
 - Foco em web fullstack: Next.js, Node, PostgreSQL
 - Estudando AWS e Python
 
