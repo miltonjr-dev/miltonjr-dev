@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor fullstack em formação (ADS · Senac SP) · São Paulo, Brasil<br/>
-  Anos de gestão comercial, agora construindo produtos web de ponta a ponta — do banco de dados ao deploy.
+  20 anos de gestão comercial, agora construindo produtos web de ponta a ponta — do banco de dados ao deploy.
 </p>
 
 <p align="center">
